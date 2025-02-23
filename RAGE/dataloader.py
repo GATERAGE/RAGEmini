@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# rage_dataloader.py
+# rage_dataloader.py (c)  2025 RAGE
 
 import os
 import re
