@@ -1,6 +1,6 @@
 # RAGE DeepSeek
 in one weekend I created a streamlit to connect with ollama recognizing ollama from localhost if running<br />
-RAGE folder contains the as yet to be implented Retrieval Augmented Generative Engine<br />
+<b>RAGE</b> folder contains the as yet to be implented <b>R</b>etrieval <b>A</b>ugmented <b>G</b>enerative <b>E</b>ngine<br />
 RAGE DeepSeek currently functions as a basic UI for chat response from local ollama model<br />
 with memory.py and logger.py<br />
 
