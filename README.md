@@ -31,7 +31,7 @@ RAGE Retrieval Augmented Generative Engine is a dynamic engine designed to learn
 By leveraging the continuously updated data and learning from past interactions, RAGE can understand and respond to nuances in user queries. This ability makes it particularly effective in scenarios where context heavily influences the nature of the response.
 # Adaptive Response Generation: 
 As RAGE evolves, it becomes more adept at predicting user needs and adjusting its responses accordingly, ensuring high relevance and personalization<br />
-manual install<br />
+perform manual INSTALL or INSTALL not both<br />
 ```python
 git clone https://github.com/GATERAGE/DeepSeekRAGE
 ```
