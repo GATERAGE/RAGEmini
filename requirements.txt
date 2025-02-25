@@ -3,3 +3,5 @@ python-dotenv==1.0.0
 requests==2.31.0
 tqdm==4.66.1
 psutil==7.0.0
+google-generativeai
+
