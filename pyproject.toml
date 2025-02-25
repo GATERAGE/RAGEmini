@@ -1,0 +1,16 @@
+# pyproject.toml
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "RAGEmini"
+version = "4.9.6"
+description = "Retrieval Augmented Generative Engine RAGE gemini"
+dependencies = [
+    "streamlit",
+    "psutil",
+    "python-dotenv",
+    "google-generativeai",
+    # Add any other dependencies here
+]
