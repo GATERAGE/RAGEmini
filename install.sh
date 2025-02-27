@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# RAGE (c) 2025 Gregory L. Magnusson MIT
 # script to automate the creation of the rage venv with min_python_version variable and installation of requirements
 # chmod +x install.sh
 # ./install.sh
